@@ -244,3 +244,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
+Bons estudos 
+Rogerio Freire 
